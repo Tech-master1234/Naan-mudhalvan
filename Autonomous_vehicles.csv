@@ -1,0 +1,6 @@
+Vehicle_ID,Vehicle_Type,Year_of_Manufacture,Manufacturer,Autonomous_Level,Mileage,Accidents,Safety_Rating
+1,Sedan,2019,Tesla,3,25000,0,9.5
+2,SUV,2020,Toyota,2,30000,1,8.7
+3,Truck,2018,Ford,1,18000,0,7.9
+4,Electric,2021,Google,4,5000,2,9.8
+5,Van,2017,Nissan,2,40000,0,8.5
